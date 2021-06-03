@@ -76,7 +76,6 @@ $(document).ready(function(){
         event.preventDefault();
     });
 
-
     $("#act-userid").click( function(event){
         enable_form();
         modal_slideToggle("#modal_topic");
